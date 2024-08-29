@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
